@@ -7,20 +7,20 @@
       "RelativeMoniker": "D:0:0:{4B393CA0-6756-4708-8198-4385A3B1A6F7}|250901\\250901.csproj|solutionrelative:250901\\250911.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B393CA0-6756-4708-8198-4385A3B1A6F7}|250901\\250901.csproj|c:\\noi\\c#\\csharp-lesson\\250901\\250901\\250910-1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B393CA0-6756-4708-8198-4385A3B1A6F7}|250901\\250901.csproj|solutionrelative:250901\\250910-1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4B393CA0-6756-4708-8198-4385A3B1A6F7}|250901\\250901.csproj|c:\\noi\\c#\\csharp-lesson\\250901\\250901\\250909-01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B393CA0-6756-4708-8198-4385A3B1A6F7}|250901\\250901.csproj|solutionrelative:250901\\250909-01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4B393CA0-6756-4708-8198-4385A3B1A6F7}|250901\\250901.csproj|c:\\noi\\c#\\csharp-lesson\\250901\\250901\\250910.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4B393CA0-6756-4708-8198-4385A3B1A6F7}|250901\\250901.csproj|solutionrelative:250901\\250910.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B393CA0-6756-4708-8198-4385A3B1A6F7}|250901\\250901.csproj|c:\\noi\\c#\\csharp-lesson\\250901\\250901\\250909.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B393CA0-6756-4708-8198-4385A3B1A6F7}|250901\\250901.csproj|solutionrelative:250901\\250909.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4B393CA0-6756-4708-8198-4385A3B1A6F7}|250901\\250901.csproj|c:\\noi\\c#\\csharp-lesson\\250901\\250901\\250910-1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B393CA0-6756-4708-8198-4385A3B1A6F7}|250901\\250901.csproj|solutionrelative:250901\\250910-1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B393CA0-6756-4708-8198-4385A3B1A6F7}|250901\\250901.csproj|c:\\noi\\c#\\csharp-lesson\\250901\\250901\\250909-01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B393CA0-6756-4708-8198-4385A3B1A6F7}|250901\\250901.csproj|solutionrelative:250901\\250909-01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4B393CA0-6756-4708-8198-4385A3B1A6F7}|250901\\250901.csproj|c:\\noi\\c#\\csharp-lesson\\250901\\250901\\250909.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B393CA0-6756-4708-8198-4385A3B1A6F7}|250901\\250901.csproj|solutionrelative:250901\\250909.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4B393CA0-6756-4708-8198-4385A3B1A6F7}|250901\\250901.csproj|c:\\noi\\c#\\csharp-lesson\\250901\\250901\\250905-noi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -64,20 +64,20 @@
               "RelativeDocumentMoniker": "250901\\250911.cs",
               "ToolTip": "C:\\noi\\C#\\Csharp-lesson\\250901\\250901\\250911.cs",
               "RelativeToolTip": "250901\\250911.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAiwCAAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-11T00:42:38.274Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "250910-1.cs",
               "DocumentMoniker": "C:\\noi\\C#\\Csharp-lesson\\250901\\250901\\250910-1.cs",
               "RelativeDocumentMoniker": "250901\\250910-1.cs",
               "ToolTip": "C:\\noi\\C#\\Csharp-lesson\\250901\\250901\\250910-1.cs",
               "RelativeToolTip": "250901\\250910-1.cs",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAQwFMAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAADQAAAAAAAAAAAAqwFYAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-10T05:43:32.146Z",
               "EditorCaption": ""
@@ -90,25 +90,27 @@
               "RelativeDocumentMoniker": "250901\\250910.cs",
               "ToolTip": "C:\\noi\\C#\\Csharp-lesson\\250901\\250901\\250910.cs",
               "RelativeToolTip": "250901\\250910.cs",
-              "ViewState": "AgIAAGIAAAAAAAAAAAAAAH0AAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH0AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T01:00:47.472Z"
+              "WhenOpened": "2025-09-10T01:00:47.472Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "250909-01.cs",
               "DocumentMoniker": "C:\\noi\\C#\\Csharp-lesson\\250901\\250901\\250909-01.cs",
               "RelativeDocumentMoniker": "250901\\250909-01.cs",
               "ToolTip": "C:\\noi\\C#\\Csharp-lesson\\250901\\250901\\250909-01.cs",
               "RelativeToolTip": "250901\\250909-01.cs",
-              "ViewState": "AgIAACYBAAAAAAAAAAAAABEAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAABEAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T05:09:05.118Z"
+              "WhenOpened": "2025-09-09T05:09:05.118Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "250909.cs",
               "DocumentMoniker": "C:\\noi\\C#\\Csharp-lesson\\250901\\250901\\250909.cs",
               "RelativeDocumentMoniker": "250901\\250909.cs",

@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\noi\\C#\\Csharp-lesson\\250901\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4B393CA0-6756-4708-8198-4385A3B1A6F7}|250901\\250901.csproj|c:\\noi\\c#\\csharp-lesson\\250901\\250901\\250917.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B393CA0-6756-4708-8198-4385A3B1A6F7}|250901\\250901.csproj|solutionrelative:250901\\250917.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B393CA0-6756-4708-8198-4385A3B1A6F7}|250901\\250901.csproj|c:\\noi\\c#\\csharp-lesson\\250901\\250901\\250916.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B393CA0-6756-4708-8198-4385A3B1A6F7}|250901\\250901.csproj|solutionrelative:250901\\250916.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4B393CA0-6756-4708-8198-4385A3B1A6F7}|250901\\250901.csproj|c:\\noi\\c#\\csharp-lesson\\250901\\250901\\250915.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4B393CA0-6756-4708-8198-4385A3B1A6F7}|250901\\250901.csproj|solutionrelative:250901\\250915.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -59,19 +67,44 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "250915.cs",
-              "DocumentMoniker": "C:\\noi\\C#\\Csharp-lesson\\250901\\250901\\250915.cs",
-              "RelativeDocumentMoniker": "250901\\250915.cs",
-              "ToolTip": "C:\\noi\\C#\\Csharp-lesson\\250901\\250901\\250915.cs",
-              "RelativeToolTip": "250901\\250915.cs",
-              "ViewState": "AgIAALoAAAAAAAAAAAAAAMoAAAAZAAAAAAAAAA==",
+              "Title": "250917.cs",
+              "DocumentMoniker": "C:\\noi\\C#\\Csharp-lesson\\250901\\250901\\250917.cs",
+              "RelativeDocumentMoniker": "250901\\250917.cs",
+              "ToolTip": "C:\\noi\\C#\\Csharp-lesson\\250901\\250901\\250917.cs",
+              "RelativeToolTip": "250901\\250917.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAwD4AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-12T01:42:42.865Z",
+              "WhenOpened": "2025-09-17T01:05:20.804Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "250916.cs",
+              "DocumentMoniker": "C:\\noi\\C#\\Csharp-lesson\\250901\\250901\\250916.cs",
+              "RelativeDocumentMoniker": "250901\\250916.cs",
+              "ToolTip": "C:\\noi\\C#\\Csharp-lesson\\250901\\250901\\250916.cs",
+              "RelativeToolTip": "250901\\250916.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAlwIgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T00:11:49.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "250915.cs",
+              "DocumentMoniker": "C:\\noi\\C#\\Csharp-lesson\\250901\\250901\\250915.cs",
+              "RelativeDocumentMoniker": "250901\\250915.cs",
+              "ToolTip": "C:\\noi\\C#\\Csharp-lesson\\250901\\250901\\250915.cs",
+              "RelativeToolTip": "250901\\250915.cs",
+              "ViewState": "AgIAABgCAAAAAAAAAAAAACQCAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T01:42:42.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "250911.cs",
               "DocumentMoniker": "C:\\noi\\C#\\Csharp-lesson\\250901\\250901\\250911.cs",
               "RelativeDocumentMoniker": "250901\\250911.cs",
@@ -79,12 +112,11 @@
               "RelativeToolTip": "250901\\250911.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-11T00:42:38.274Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-11T00:42:38.274Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "250910-1.cs",
               "DocumentMoniker": "C:\\noi\\C#\\Csharp-lesson\\250901\\250901\\250910-1.cs",
               "RelativeDocumentMoniker": "250901\\250910-1.cs",
@@ -96,7 +128,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "250910.cs",
               "DocumentMoniker": "C:\\noi\\C#\\Csharp-lesson\\250901\\250901\\250910.cs",
               "RelativeDocumentMoniker": "250901\\250910.cs",
@@ -108,7 +140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "250909-01.cs",
               "DocumentMoniker": "C:\\noi\\C#\\Csharp-lesson\\250901\\250901\\250909-01.cs",
               "RelativeDocumentMoniker": "250901\\250909-01.cs",
@@ -120,7 +152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "250909.cs",
               "DocumentMoniker": "C:\\noi\\C#\\Csharp-lesson\\250901\\250901\\250909.cs",
               "RelativeDocumentMoniker": "250901\\250909.cs",
@@ -132,7 +164,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "250908.cs",
               "DocumentMoniker": "C:\\noi\\C#\\Csharp-lesson\\250901\\250901\\250908.cs",
               "RelativeDocumentMoniker": "250901\\250908.cs",
@@ -144,7 +176,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "250905-noi.cs",
               "DocumentMoniker": "C:\\noi\\C#\\Csharp-lesson\\250901\\250901\\250905-noi.cs",
               "RelativeDocumentMoniker": "250901\\250905-noi.cs",
@@ -156,7 +188,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "250905.cs",
               "DocumentMoniker": "C:\\noi\\C#\\Csharp-lesson\\250901\\250901\\250905.cs",
               "RelativeDocumentMoniker": "250901\\250905.cs",
@@ -168,7 +200,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "250904.cs",
               "DocumentMoniker": "C:\\noi\\C#\\Csharp-lesson\\250901\\250901\\250904.cs",
               "RelativeDocumentMoniker": "250901\\250904.cs",
@@ -180,7 +212,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "250903.cs",
               "DocumentMoniker": "C:\\noi\\C#\\Csharp-lesson\\250901\\250901\\250903.cs",
               "RelativeDocumentMoniker": "250901\\250903.cs",

@@ -70,12 +70,17 @@ namespace tree
         static int GetHeight(TreeNode<string> root)
         {
             int height = 0;
-            foreach(var item in root.Children)
+            foreach (var child in root.Children)
             {
-                height++;
-                GetHeight(item);
+                int newHeight = GetHeight(child) +1;
+                if(height < newHeight) //제일 큰 값을 넣어줘야함..미친 ㅜㅜ
+                height = newHeight;
+                /*
+                 or
+                height = Math.Max(height, newHeight);
+                 */
             }
-            return height+1;
+            return height;
         }
 
         static void Main(string[] args)

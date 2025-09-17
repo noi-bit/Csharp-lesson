@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.CompilerServices;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -65,10 +66,24 @@ namespace tree
             }
         }
 
+        //높이 구하기
+        static int GetHeight(TreeNode<string> root)
+        {
+            int height = 0;
+            foreach(var item in root.Children)
+            {
+                height++;
+                GetHeight(item);
+            }
+            return height+1;
+        }
+
         static void Main(string[] args)
         {
             var root = MakeTree();
             PrintTree(root);
+            Console.WriteLine();
+            Console.WriteLine(GetHeight(root));
         }
     }
 }
